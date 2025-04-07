@@ -1,0 +1,160 @@
+2025-03-17 11:10:37,741 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-17 11:10:37,741 - [33mPress CTRL+C to quit[0m
+2025-03-17 11:10:37,757 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:10:38,010 -  * Debugger is active!
+2025-03-17 11:10:38,010 -  * Debugger PIN: 856-958-277
+2025-03-17 11:10:56,172 - 127.0.0.1 - - [17/Mar/2025 11:10:56] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-17 11:11:15,924 - 127.0.0.1 - - [17/Mar/2025 11:11:15] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-17 11:12:50,461 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-17 11:12:50,475 - [33mPress CTRL+C to quit[0m
+2025-03-17 11:12:50,482 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:12:50,760 -  * Debugger is active!
+2025-03-17 11:12:50,763 -  * Debugger PIN: 856-958-277
+2025-03-17 11:12:50,773 - 127.0.0.1 - - [17/Mar/2025 11:12:50] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+2025-03-17 11:12:50,863 - 127.0.0.1 - - [17/Mar/2025 11:12:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-17 11:12:52,236 - 127.0.0.1 - - [17/Mar/2025 11:12:52] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+2025-03-17 11:12:52,759 - 127.0.0.1 - - [17/Mar/2025 11:12:52] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+2025-03-17 11:12:53,075 - 127.0.0.1 - - [17/Mar/2025 11:12:53] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+2025-03-17 11:12:53,247 - 127.0.0.1 - - [17/Mar/2025 11:12:53] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+2025-03-17 11:12:53,411 - 127.0.0.1 - - [17/Mar/2025 11:12:53] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+2025-03-17 11:17:11,196 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-17 11:17:11,196 - [33mPress CTRL+C to quit[0m
+2025-03-17 11:17:11,204 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:17:11,492 -  * Debugger is active!
+2025-03-17 11:17:11,492 -  * Debugger PIN: 856-958-277
+2025-03-17 11:17:23,613 - 127.0.0.1 - - [17/Mar/2025 11:17:23] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-17 11:18:48,602 - 127.0.0.1 - - [17/Mar/2025 11:18:48] "[33mGET /deepseek_chat_ui.html HTTP/1.1[0m" 404 -
+2025-03-17 11:18:48,671 - 127.0.0.1 - - [17/Mar/2025 11:18:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-17 11:19:01,220 - 127.0.0.1 - - [17/Mar/2025 11:19:01] "[33mGET /deepseek_chat_ui.html HTTP/1.1[0m" 404 -
+2025-03-17 11:19:09,798 - 127.0.0.1 - - [17/Mar/2025 11:19:09] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-17 11:20:05,504 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:20:05,506 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:20:05,507 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:20:05,853 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:20:46,144 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-17 11:20:46,144 - [33mPress CTRL+C to quit[0m
+2025-03-17 11:20:46,152 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:20:46,427 -  * Debugger is active!
+2025-03-17 11:20:46,427 -  * Debugger PIN: 856-958-277
+2025-03-17 11:21:46,511 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:21:46,512 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:21:46,562 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:21:46,961 -  * Debugger is active!
+2025-03-17 11:21:46,961 -  * Debugger PIN: 856-958-277
+2025-03-17 11:22:39,446 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:22:39,451 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:22:40,096 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:22:40,484 -  * Debugger is active!
+2025-03-17 11:22:40,484 -  * Debugger PIN: 856-958-277
+2025-03-17 11:23:10,359 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-17 11:23:10,359 - [33mPress CTRL+C to quit[0m
+2025-03-17 11:23:10,363 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:23:10,615 -  * Debugger is active!
+2025-03-17 11:23:10,621 -  * Debugger PIN: 856-958-277
+2025-03-17 11:23:19,979 -  * Detected change in 'C:\\Users\\vedad\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\exceptions.py', reloading
+2025-03-17 11:23:20,673 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:23:20,979 -  * Debugger is active!
+2025-03-17 11:23:20,981 -  * Debugger PIN: 856-958-277
+2025-03-17 11:24:20,837 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:24:20,837 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:24:20,847 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:24:21,160 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:24:21,508 -  * Debugger is active!
+2025-03-17 11:24:21,509 -  * Debugger PIN: 856-958-277
+2025-03-17 11:24:25,516 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-17 11:24:25,516 - [33mPress CTRL+C to quit[0m
+2025-03-17 11:24:25,520 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:24:25,778 -  * Debugger is active!
+2025-03-17 11:24:25,780 -  * Debugger PIN: 856-958-277
+2025-03-17 11:25:31,185 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:25:31,186 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:25:31,618 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:25:31,618 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:25:31,633 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:25:31,799 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:25:31,799 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:25:31,807 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:25:31,941 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:25:32,290 -  * Debugger is active!
+2025-03-17 11:25:32,290 -  * Debugger PIN: 856-958-277
+2025-03-17 11:25:33,975 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-17 11:25:33,975 - [33mPress CTRL+C to quit[0m
+2025-03-17 11:25:33,978 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:25:34,218 -  * Debugger is active!
+2025-03-17 11:25:34,230 -  * Debugger PIN: 856-958-277
+2025-03-17 11:26:04,460 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:26:04,476 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:26:05,188 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:26:05,194 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:26:05,336 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:26:05,637 -  * Debugger is active!
+2025-03-17 11:26:05,637 -  * Debugger PIN: 856-958-277
+2025-03-17 11:26:08,306 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-17 11:26:08,306 - [33mPress CTRL+C to quit[0m
+2025-03-17 11:26:08,329 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:26:08,616 -  * Debugger is active!
+2025-03-17 11:26:08,620 -  * Debugger PIN: 856-958-277
+2025-03-17 11:26:31,786 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:26:31,786 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:26:31,799 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:26:32,068 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:26:32,068 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:26:32,244 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:26:32,246 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:26:32,255 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:26:32,706 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:26:32,989 -  * Debugger is active!
+2025-03-17 11:26:32,991 -  * Debugger PIN: 856-958-277
+2025-03-17 11:27:10,952 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:27:10,952 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:27:10,961 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:27:11,129 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:27:11,517 -  * Debugger is active!
+2025-03-17 11:27:11,517 -  * Debugger PIN: 856-958-277
+2025-03-17 11:29:35,902 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:29:35,912 -  * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+2025-03-17 11:29:36,800 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:29:57,196 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:32:14,850 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:33:10,383 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:34:24,867 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:34:57,354 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:35:55,950 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:36:01,388 -  * Restarting with watchdog (windowsapi)
+2025-03-17 11:37:50,997 -  * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 856-958-277
+INFO:werkzeug: * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 856-958-277
+INFO:werkzeug:127.0.0.1 - - [17/Mar/2025 11:50:24] "OPTIONS /chat HTTP/1.1" 200 -
+ERROR:root:API Error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+INFO:werkzeug:127.0.0.1 - - [17/Mar/2025 11:50:24] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\vedad\\OneDrive - NRI Institute of Technology\\Desktop\\Task-2\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
